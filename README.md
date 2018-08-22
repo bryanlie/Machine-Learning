@@ -12,3 +12,7 @@ machine learning practice
 3. Bike sharing demand <br />
    category: regression, time series <br />
    algorithm: random forest <br />
+   
+4. Credit card fraud detection <br />
+   category: classification, imbalanced data <br />
+   algorithms: Logit, SVC, kNN <br />
