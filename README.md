@@ -1,5 +1,5 @@
 # machine-learning
-machine learning practice
+portfolio
 
 1. Boston housing prices prediction <br />
     category: regression <br />
