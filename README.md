@@ -1,5 +1,5 @@
-# machine-learning
-portfolio
+# Machine-Learning
+Data Science Portfolio
 
 1. Boston housing prices prediction <br />
     category: regression <br />
