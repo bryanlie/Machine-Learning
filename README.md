@@ -16,3 +16,7 @@ Data Science Portfolio
 4. Credit card fraud detection <br />
    category: classification, imbalanced data <br />
    algorithms: Logit, SVC, kNN <br />
+   
+5. Salary prediction <br />
+   category: regression <br />
+   algorithms: kNN, decision tree-based methods, XGB <br /> 
